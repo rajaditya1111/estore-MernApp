@@ -1,4 +1,4 @@
-<h4 align="center">eStore</h4>
+<h2 align="center">eStore</h2>
 
 
 -    MongoDB Integration
