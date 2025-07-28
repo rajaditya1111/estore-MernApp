@@ -1,8 +1,6 @@
-<h2 align="center">eStore</h2>
+<h4 align="center">eStore</h4>
 
 
-
--    Project Setup
 -    MongoDB Integration
 -    Stripe Payment Setup
 -    Robust Authentication System
